@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:yujunz/git-subrepo-sub.git
 	branch = master
-	commit = a9da94897bf87f800bcba2d0ff8813725e49d308
+	commit = 6474a69a6d6a7c2853a6eeb64760e9cbfc6992c4
 	method = merge
 	cmdver = 0.4.3
-	parent = a9aa71a21ec59f86b3d69335045ea74aca847d77
+	parent = dff9d33c0284ea2be48eab832031f00a8857fde9
